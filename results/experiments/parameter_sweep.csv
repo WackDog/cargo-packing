@@ -1,0 +1,9 @@
+name,stress_scale,population_size,mutation_rate,local_search_rate,include_heuristic_seeds,runs,successes,success_rate,zero_at_generation_0_rate,mean_runtime_seconds,median_runtime_seconds,mean_generation_to_zero,median_generation_to_zero,mean_final_fitness,best_final_fitness,worst_final_fitness
+baseline_random_only,0.8,20,0.25,0.2,False,20,20,1.0,0.55,0.045144069194793704,0.02696549892425537,0.65,0.0,0.0,0.0,0.0
+small_population,0.8,8,0.25,0.2,False,20,20,1.0,0.35,0.03150789737701416,0.023802518844604492,1.9,1.0,0.0,0.0,0.0
+large_population,0.8,60,0.25,0.2,False,20,20,1.0,0.95,0.1526907801628113,0.08108723163604736,0.05,0.0,0.0,0.0,0.0
+low_mutation,0.8,20,0.05,0.2,False,20,20,1.0,0.75,0.027652525901794435,0.016614317893981934,0.25,0.0,0.0,0.0,0.0
+high_mutation,0.8,20,0.5,0.2,False,20,20,1.0,0.6,0.026078522205352783,0.012317299842834473,0.4,0.0,0.0,0.0,0.0
+no_local_search,0.8,20,0.25,0.0,False,20,20,1.0,0.65,0.02367016077041626,0.013447403907775879,0.75,0.0,0.0,0.0,0.0
+high_local_search,0.8,20,0.25,0.5,False,20,20,1.0,0.7,0.02508512735366821,0.0124741792678833,0.3,0.0,0.0,0.0,0.0
+heuristic_seeded,0.8,20,0.25,0.2,True,20,20,1.0,1.0,0.011665582656860352,0.011438369750976562,0.0,0.0,0.0,0.0,0.0

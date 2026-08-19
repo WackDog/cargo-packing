@@ -1,0 +1,25 @@
+group,instance,algorithm,algorithm_name,runs,successes,success_rate,mean_runtime_seconds,median_runtime_seconds,mean_step_to_solution,median_step_to_solution,best_fitness,mean_final_fitness
+basic,basic_01_three_identical,ga,Genetic Algorithm,20,20,1.0,0.005632865428924561,0.005464673042297363,0.0,0.0,0.0,0.0
+basic,basic_01_three_identical,hc,Hill Climbing,20,20,1.0,0.00010558366775512696,0.00010192394256591797,0.0,0.0,0.0,0.0
+basic,basic_01_three_identical,sa,Simulated Annealing,20,20,1.0,0.00010315179824829101,0.00010192394256591797,0.0,0.0,0.0,0.0
+basic,basic_02_two_sizes,ga,Genetic Algorithm,20,20,1.0,0.009962654113769532,0.009527206420898438,0.0,0.0,0.0,0.0
+basic,basic_02_two_sizes,hc,Hill Climbing,20,20,1.0,0.0001857280731201172,0.0001615285873413086,0.0,0.0,0.0,0.0
+basic,basic_02_two_sizes,sa,Simulated Annealing,20,20,1.0,0.00018689632415771484,0.00016248226165771484,0.0,0.0,0.0,0.0
+basic,basic_03_varied_sizes,ga,Genetic Algorithm,20,20,1.0,0.014004969596862793,0.013704657554626465,0.0,0.0,0.0,0.0
+basic,basic_03_varied_sizes,hc,Hill Climbing,20,20,1.0,0.00022698640823364257,0.00021839141845703125,0.0,0.0,0.0,0.0
+basic,basic_03_varied_sizes,sa,Simulated Annealing,20,20,1.0,0.00022878646850585938,0.00022649765014648438,0.0,0.0,0.0,0.0
+challenging,challenge_01_tight_packing,ga,Genetic Algorithm,20,20,1.0,0.03494883775711059,0.03437221050262451,0.0,0.0,0.0,0.0
+challenging,challenge_01_tight_packing,hc,Hill Climbing,20,20,1.0,0.0005849480628967285,0.0005643367767333984,0.0,0.0,0.0,0.0
+challenging,challenge_01_tight_packing,sa,Simulated Annealing,20,20,1.0,0.0005572080612182617,0.0005594491958618164,0.0,0.0,0.0,0.0
+challenging,challenge_02_weight_balance,ga,Genetic Algorithm,20,20,1.0,0.03434103727340698,0.03350639343261719,0.0,0.0,0.0,0.0
+challenging,challenge_02_weight_balance,hc,Hill Climbing,20,20,1.0,0.0005292892456054688,0.0005193948745727539,0.0,0.0,0.0,0.0
+challenging,challenge_02_weight_balance,sa,Simulated Annealing,20,20,1.0,0.0006312012672424316,0.0005600452423095703,0.1,0.0,0.0,0.0
+challenging,challenge_03_many_small,ga,Genetic Algorithm,20,20,1.0,0.07221922874450684,0.07037746906280518,0.0,0.0,0.0,0.0
+challenging,challenge_03_many_small,hc,Hill Climbing,20,20,1.0,0.0012791872024536133,0.0012264251708984375,0.0,0.0,0.0,0.0
+challenging,challenge_03_many_small,sa,Simulated Annealing,20,20,1.0,0.0011593937873840333,0.0011554956436157227,0.0,0.0,0.0,0.0
+challenging,challenge_04_mixed_constraints,ga,Genetic Algorithm,20,20,1.0,0.054953479766845705,0.05433988571166992,0.0,0.0,0.0,0.0
+challenging,challenge_04_mixed_constraints,hc,Hill Climbing,20,20,1.0,0.0008196711540222168,0.0008057355880737305,0.0,0.0,0.0,0.0
+challenging,challenge_04_mixed_constraints,sa,Simulated Annealing,20,20,1.0,0.0012778520584106445,0.0009278059005737305,0.2,0.0,0.0,0.0
+experimental,stress_0.76_from_challenge_01,ga,Genetic Algorithm,20,20,1.0,0.10576690435409546,0.10722637176513672,0.95,1.0,0.0,0.0
+experimental,stress_0.76_from_challenge_01,hc,Hill Climbing,20,20,1.0,0.2608316421508789,0.09084117412567139,470.2,167.0,0.0,0.0
+experimental,stress_0.76_from_challenge_01,sa,Simulated Annealing,20,20,1.0,0.07129455804824829,0.05951869487762451,125.75,102.0,0.0,0.0

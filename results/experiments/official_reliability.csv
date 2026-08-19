@@ -1,0 +1,8 @@
+group,instance,runs,successes,success_rate,zero_at_generation_0_rate,mean_runtime_seconds,median_runtime_seconds,mean_generation_to_zero,median_generation_to_zero,mean_final_fitness,best_final_fitness,worst_final_fitness
+basic,basic_01_three_identical,30,30,1.0,1.0,0.00556639035542806,0.005463719367980957,0.0,0.0,0.0,0.0,0.0
+basic,basic_02_two_sizes,30,30,1.0,1.0,0.009350895881652832,0.009174942970275879,0.0,0.0,0.0,0.0,0.0
+basic,basic_03_varied_sizes,30,30,1.0,1.0,0.014037005106608073,0.013807058334350586,0.0,0.0,0.0,0.0,0.0
+challenging,challenge_01_tight_packing,30,30,1.0,1.0,0.03551793893178304,0.03493547439575195,0.0,0.0,0.0,0.0,0.0
+challenging,challenge_02_weight_balance,30,30,1.0,1.0,0.034740018844604495,0.0341031551361084,0.0,0.0,0.0,0.0,0.0
+challenging,challenge_03_many_small,30,30,1.0,1.0,0.12392105261484782,0.07229089736938477,0.0,0.0,0.0,0.0,0.0
+challenging,challenge_04_mixed_constraints,30,30,1.0,1.0,0.08927654425303141,0.0965198278427124,0.0,0.0,0.0,0.0,0.0
